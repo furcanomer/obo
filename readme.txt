@@ -1,2 +1,3 @@
-# obo
+OBO
+
 Experimental Simple Game
