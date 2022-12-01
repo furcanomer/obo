@@ -1,3 +1,3 @@
 OBO
 
-Experimental Simple Game
+Deneyel Basit Oyun
