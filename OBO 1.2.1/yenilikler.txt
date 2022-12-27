@@ -1,0 +1,3 @@
+OBO 1.2.1 Yenilikler:
+
+1- Linux komut satırına destek sağlandı.
