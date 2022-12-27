@@ -1,7 +1,3 @@
 OBO
 
 Öylesine Bir Oyun
-
-Herhangi bir .exe uzantılı bir dosya ya da binary dosyası paylaşmayacağım. 
-Kodu direkt olarak kendi kullandığınız derleyiciyle derleyip programı yaratıp kullanabilirsiniz. 
-İstediğiniz işletim sisteminde derleyebilirsiniz. Kodu herhangi bir işletim sistemi özelinde yazmadım.
