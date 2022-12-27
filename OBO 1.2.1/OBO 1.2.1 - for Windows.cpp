@@ -6,7 +6,7 @@ int ekran_Silme = 0;
 
 void ekranTemizle(){
 
-	system("cls");
+	system("cls"); // Windows için ekran temizleme kodu
 
 }
 
@@ -14,7 +14,7 @@ void baslangic(){
 	ekranTemizle(); 	// eğer dosya konsoldan açıldıysa konsolla alakalı yazıların ekrandan silinmeisini sağlar.
 					// Ekranın sadece oyun ile alakalı olmasını istiyorum.
 	
-	cout << "OBO 1.2  -  https://github.com/furcanomer/obo\n--------------------------------------------------------------------------------\nSaga gitmek icin 'D' tusuna basin.\tYeniden baslamak icin 'R' tusuna basin.\n\n";
+	cout << "OBO 1.2.1 - https://github.com/furcanomer/obo\n--------------------------------------------------------------------------------\nSaga gitmek icin 'D' tusuna basin.\tYeniden baslamak icin 'R' tusuna basin.\n\n";
 	cout << "Sola gitmek icin 'A' tusuna basin.\tOyunu kapatmak icin 'X' tusuna basin.";
 	cout << "\n--------------------------------------------------------------------------------\n\n";
 }
