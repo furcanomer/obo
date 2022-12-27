@@ -6,7 +6,7 @@ int ekran_Silme = 0;
 
 void ekranTemizle(){
 
-	system("clear");
+	system("clear"); // Linux komut satırı için ekran temizleme kodu
 
 }
 
