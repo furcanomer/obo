@@ -6,7 +6,7 @@ int ekran_Silme = 0;
 
 void ekranTemizle(){
 
-	system("cls"); // Windows için ekran temizleme kodu
+	system("cls"); // Windows komut satırı için ekran temizleme kodu
 
 }
 
