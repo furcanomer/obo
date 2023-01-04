@@ -1,0 +1,9 @@
+OBO 1.3 Yenilikler:
+
+1 - 	Ok sayısı 19 olarak sınırlandırıldı.
+
+2 - 	19 sınırına ulaşılmasına rağmen hala sağa gidilmeye
+	çalışılıyorsa sistem uyarı sesi çalar.
+
+3 -	Hiç sağa gidilmemiş ve buna rağmen sola gidilmeye çalışıyorsa
+	sistem uyarı sesi çalar.
